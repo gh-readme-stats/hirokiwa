@@ -5,13 +5,15 @@
 ## About me 
 - 🎉 Hiroki from Japan
 
-- 🍀 Web Frontend/Backend Engineer
+- 🍀 Frontend Engineer
 
-- 🌏 React Lover
+- 🌏 UI/UX, Accessibility
 
-- 🌤 Interested in Mobile
+- 👉 [Portfolio](https://me.hirokiwa.com)
 
 ## Products
+
+- ⭕️ [どこでも大屋根リング](https://grandring.hirokiwa.com)
 
 - 🎉 [AI おじさん 毎日ブログ](https://ai-blog.hirokiwa.com)
 
